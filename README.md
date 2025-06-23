@@ -87,13 +87,7 @@ qr = qrcode.QRCode(
 * Event invites or promotional materials
 * Securely share short messages
 
----
-
-## 📃 License
-
-MIT License. Free to use, modify, and distribute.
-
----
+----
 
 ## 📁 Example Output
 
